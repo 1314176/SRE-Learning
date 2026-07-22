@@ -63,9 +63,9 @@ Target:
 
 ## Projects
 
-|Project|Description|Status|
+|Project|Description|Status|Timeline
 |-|-|-|
-|Linux SRE Lab|Linux server administration experiments|In Progress|
-|Automation Scripts|Shell/Python automation tools|Planned|
-|Docker Practice|Container deployment projects|Planned|
-|Kubernetes Lab|Cloud native practice|Planned|
+|Linux SRE Lab|Linux server administration experiments|In Progress|2026 Q3c
+|Automation Scripts|Shell/Python automation tools|Planned|2026 Q3
+|Docker Practice|Container deployment projects|Planned|2026 Q4
+|Kubernetes Lab|Cloud native practice|Planned|2027 Q1
