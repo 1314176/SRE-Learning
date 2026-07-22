@@ -1,2 +1,35 @@
 # SRE-Learning
-My SRE/DevOps learning journey. Linux, Shell, Python, Docker, Kubernetes, CI/CD, Monitoring and AI-SRE projects.
+
+## About
+
+This repository records my journey from IT Operations Engineer to SRE/DevOps Engineer.
+
+## Skills
+
+- Linux
+- Shell
+- Python
+- Git
+- Docker
+- Kubernetes
+- CI/CD
+- Monitoring
+- AI-SRE
+
+
+## Learning Roadmap
+
+2026:
+- Linux fundamentals
+- Automation
+- Docker
+- Kubernetes
+
+
+2027:
+- SRE/DevOps career transition
+
+
+## Projects
+
+Coming soon...
