@@ -237,9 +237,9 @@ SRE / DevOps 工程师
 
 ### Linux 虚拟机规划
 
-- Rocky Linux
-- Ubuntu Server
-- 其他课程所需兼容发行版
+- Rocky Linux (Rocky-9.3-x86_64-dvd.iso)
+- Ubuntu 服务器 ( ubuntu-22.04.4-live-server-amd64.iso )
+- Kylin Server（Kylin-Server-V10-SP3-General-Release-2303-X86_64.iso）
 
 ---
 
