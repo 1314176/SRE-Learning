@@ -63,4 +63,9 @@ Target:
 
 ## Projects
 
-Coming soon...
+|Project|Description|Status|
+|-|-|-|
+|Linux SRE Lab|Linux server administration experiments|In Progress|
+|Automation Scripts|Shell/Python automation tools|Planned|
+|Docker Practice|Container deployment projects|Planned|
+|Kubernetes Lab|Cloud native practice|Planned|
