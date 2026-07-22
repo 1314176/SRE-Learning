@@ -1,71 +1,63 @@
 # SRE-Learning
 
-My journey from IT Operations Engineer to SRE/DevOps Engineer.
+> My journey from IT Operations Engineer to SRE/DevOps Engineer.
 
-## About Me
+This repository records my transition from traditional IT operations to modern SRE/DevOps engineering.
 
-Current:
-- IT Operations Engineer
-- 8 years IT support experience
+Through continuous learning, hands-on labs, automation practices, and real-world projects, I am building the skills required for reliable infrastructure engineering.
 
-Target:
+---
+
+# About Me
+
+## Current Role
+
+**IT Operations Engineer**
+
+8 years of enterprise IT operations experience.
+
+My current experience includes:
+
+- Desktop and endpoint management
+- Windows system administration
+- Hardware and software troubleshooting
+- Enterprise IT support
+- Basic network troubleshooting
+
+
+## Career Goal
+
+Transition into:
+
 - SRE Engineer
 - DevOps Engineer
 
 
-## Learning Roadmap
+My goal is to combine my operations experience with:
 
-2026:
-- Linux
-- Shell
-- Python
-- Docker
-- Kubernetes
-- CI/CD
+- Automation
+- Cloud Native technologies
+- Infrastructure as Code
+- Reliability Engineering
 
+and become an engineer who can build and maintain reliable systems.
 
-2027:
-- SRE Career Transition
+---
 
+# Why SRE
 
-## Skills
+Traditional IT operations focus mainly on maintaining systems.
 
-|Skill|Status|
-|-|-|
-|Linux|Learning|
-|Shell|Learning|
-|Python|Learning|
-|Docker|Learning|
-|Kubernetes|Learning|
-|Monitoring|Learning|
+However, modern infrastructure requires:
 
-## Lab Environment
-
-### Hardware
-
-- CPU: Intel Core i7
-- RAM: 64GB
-- Virtualization: VMware
+- Automation instead of manual operations
+- Observability instead of passive monitoring
+- Engineering solutions instead of repetitive maintenance
 
 
-### OS
+SRE provides the bridge between:
 
-- Windows Host
-- Linux Virtual Machines
+Operations + Software Engineering
 
 
-### Tools
-
-- Git
-- Python
-- Docker
-- Kubernetes
-
-## Projects
-
-|Project|Description|Status|Timeline
-|-|-|-|
-|Linux SRE Lab|Linux server administration experiments|In Progress|2026 Q3c
-|Automation Scripts|Shell/Python automation tools|Planned|2026 Q3
-|Docker Practice|Container deployment projects|Planned|2026 Q4
-|Kubernetes Lab|Cloud native practice|Planned|2027 Q1
+My goal is to move from:
