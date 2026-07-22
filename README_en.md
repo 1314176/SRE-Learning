@@ -219,6 +219,7 @@ Planned systems:
 - Rocky Linux ( Rocky-9.3-x86_64-dvd.iso )
 - Ubuntu Server ( ubuntu-22.04.4-live-server-amd64.iso )
 - Kylin Server ( Kylin-Server-V10-SP3-General-Release-2303-X86_64.iso )
+- 其他课程所需兼容发行版
 
 ---
 
