@@ -1,33 +1,43 @@
 # SRE-Learning
 
-## About
+My journey from IT Operations Engineer to SRE/DevOps Engineer.
 
-This repository records my journey from IT Operations Engineer to SRE/DevOps Engineer.
+## About Me
 
-## Skills
+Current:
+- IT Operations Engineer
+- 8 years IT support experience
 
-- Linux
-- Shell
-- Python
-- Git
-- Docker
-- Kubernetes
-- CI/CD
-- Monitoring
-- AI-SRE
+Target:
+- SRE Engineer
+- DevOps Engineer
 
 
 ## Learning Roadmap
 
 2026:
-- Linux fundamentals
-- Automation
+- Linux
+- Shell
+- Python
 - Docker
 - Kubernetes
+- CI/CD
 
 
 2027:
-- SRE/DevOps career transition
+- SRE Career Transition
+
+
+## Skills
+
+|Skill|Status|
+|-|-|
+|Linux|Learning|
+|Shell|Learning|
+|Python|Learning|
+|Docker|Learning|
+|Kubernetes|Learning|
+|Monitoring|Learning|
 
 
 ## Projects
