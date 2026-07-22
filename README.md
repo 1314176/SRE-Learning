@@ -39,6 +39,27 @@ Target:
 |Kubernetes|Learning|
 |Monitoring|Learning|
 
+## Lab Environment
+
+### Hardware
+
+- CPU: Intel Core i7
+- RAM: 64GB
+- Virtualization: VMware
+
+
+### OS
+
+- Windows Host
+- Linux Virtual Machines
+
+
+### Tools
+
+- Git
+- Python
+- Docker
+- Kubernetes
 
 ## Projects
 
